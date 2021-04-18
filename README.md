@@ -13,4 +13,6 @@ pip install -r requirement.txt
 
 Create Migration :
 python manage.py makemigrations
+
+To migrate :
 python manage.py migrate
